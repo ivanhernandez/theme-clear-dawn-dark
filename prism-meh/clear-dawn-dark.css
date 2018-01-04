@@ -1,0 +1,132 @@
+pre {
+    font-family: 'Fira Code', Menlo, Monaco, Consolas, 'Courier New', monospace;
+    direction: ltr;
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    padding: 1em;
+    margin: .5em 0;
+    overflow: auto;
+    line-height: 1.5;
+    tab-size: 4;
+    hyphens: none;
+    color: #000;
+    background-color: #ffffff !important;
+    border: #777;
+    border-radius: 1em
+}
+
+code[class*="language-"] .token.comment,
+pre[class*="language-"] .token.comment,
+code[class*="language-"] .token.prolog,
+pre[class*="language-"] .token.prolog,
+code[class*="language-"] .token.doctype,
+pre[class*="language-"] .token.doctype,
+code[class*="language-"] .token.cdata,
+pre[class*="language-"] .token.cdata {
+    color: #777;
+    font-style: italic
+}
+
+code[class*="language-"] .token.punctuation,
+pre[class*="language-"] .token.punctuation {
+    color: #000
+}
+
+code[class*="language-"] .namespace,
+pre[class*="language-"] .namespace {
+    font-style: italic;
+    color: #000
+}
+
+code[class*="language-"] .token.property,
+pre[class*="language-"] .token.property {
+    font-weight: bold;
+    color: #000
+}
+
+code[class*="language-"] .token.boolean,
+pre[class*="language-"] .token.boolean,
+code[class*="language-"] .token.number,
+pre[class*="language-"] .token.number,
+code[class*="language-"] .token.char,
+pre[class*="language-"] .token.char,
+code[class*="language-"] .token.string,
+pre[class*="language-"] .token.string {
+    color: #A35
+}
+
+code[class*="language-"] .token.function-name,
+pre[class*="language-"] .token.function-name {
+    color: #67A
+}
+
+code[class*="language-"] .token.tag,
+pre[class*="language-"] .token.tag {
+    color: #67A
+}
+
+code[class*="language-"] .token.symbol,
+pre[class*="language-"] .token.symbol {
+    color: #000
+}
+
+code[class*="language-"] .token.selector,
+pre[class*="language-"] .token.selector {
+    color: #000
+}
+
+code[class*="language-"] .token.attr-name,
+pre[class*="language-"] .token.attr-name {
+    color: #67A;
+    font-weight: bold
+}
+
+code[class*="language-"] .token.url,
+pre[class*="language-"] .token.url {
+    color: #00f
+}
+
+code[class*="language-"] .token.atrule,
+pre[class*="language-"] .token.atrule,
+code[class*="language-"] .token.attr-value,
+pre[class*="language-"] .token.attr-value,
+code[class*="language-"] .token.keyword,
+pre[class*="language-"] .token.keyword {
+    color: #000;
+    font-weight: bold
+}
+
+code[class*="language-"] .token.function,
+pre[class*="language-"] .token.function {
+    color: #67A
+}
+
+code[class*="language-"] .token.class-name,
+pre[class*="language-"] .token.class-name {
+    text-decoration: underline;
+    color: #67A
+}
+
+code[class*="language-"] .token.variable,
+pre[class*="language-"] .token.variable {
+    color: #000
+}
+
+code[class*="language-"] .token.important,
+pre[class*="language-"] .token.important,
+code[class*="language-"] .token.bold,
+pre[class*="language-"] .token.bold {
+    font-weight: bold
+}
+
+code[class*="language-"] .token.italic,
+pre[class*="language-"] .token.italic {
+    font-style: italic
+}
+
+code[class*="language-"] .token.entity,
+pre[class*="language-"] .token.entity {
+    cursor: help
+}

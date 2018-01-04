@@ -1,0 +1,17 @@
+{
+    "name": "theme-clear-dawn-dark",
+    "displayName": "Clear Dawn Dark",
+    "description": "A desaturated greenish, high contrast, dark theme",
+    "categories": ["Themes"],
+    "version": "0.6.2",
+    "publisher": "ivanhernandez",
+    "engines": { "vscode": "*" },
+    "contributes": {
+        "themes": [{
+            "id": "Clear Dawn Dark",
+            "label": "Clear Dawn Dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/clear_dawn_dark.json"
+        }]
+    }
+}
