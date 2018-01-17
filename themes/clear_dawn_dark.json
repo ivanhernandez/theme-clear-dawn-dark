@@ -67,7 +67,7 @@
         "editorLineNumber.foreground": "#563",
         "editorBracketMatch.background": "#0000",
         "editorBracketMatch.border": "#0FD",
-        "editorCodeLens.foreground": "#040600",
+        "editorCodeLens.foreground": "#097",
         "editorCursor.foreground": "#F40",
         "editorError.foreground": "#F40",
         "editorGroup.background": "#0A100A",
@@ -138,7 +138,7 @@
         "textBlockQuote.border": "#343",
         "textCodeBlock.background": "#070B07",
         "textLink.activeForeground": "#0FD",
-        "textLink.foreground": "#0DC",
+        "textLink.foreground": "#097",
         "textPreformat.foreground": "#AE9",
         "textSeparator.foreground": "#563",
 

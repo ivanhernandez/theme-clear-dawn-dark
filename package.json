@@ -3,7 +3,7 @@
     "displayName": "Clear Dawn Dark",
     "description": "A desaturated greenish, high contrast, dark theme",
     "categories": ["Themes"],
-    "version": "0.8.0",
+    "version": "0.8.1",
     "publisher": "ivanhernandez",
     "engines": { "vscode": "*" },
     "contributes": {
