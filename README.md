@@ -6,6 +6,10 @@ Desaturated greenish and blueish, high contrast, dark themes (and two retro mono
 # CHANGELOG
 [CHANGELOG.MD](https://github.com/ivanhernandez/theme-clear-dawn-dark/blob/master/CHANGELOG.md)
 
+# Light variant
+
+Look for [Clear Dawn](https://github.com/ivanhernandez/theme-clear-dawn)
+
 # Tweaks
 If you would like to play around with new colors, use the setting `workbench.colorCustomizations` to customize the currently selected theme.
 
@@ -20,15 +24,46 @@ For example, you can add this snippet in your "settings.json" file:
 }
 ```
 
-# ScreenShot
-![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc1.png)
+# ScreenShots
 
-![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc2.png)
+Took screenshots  with [Fira Code](https://github.com/tonsky/FiraCode) and enabled [ligatures](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions).
 
-![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc3.png)
+## Clear Dawn Dark
 
-![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc4.png)
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc1k.png)
 
-![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc5.png)
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc2k.png)
 
-![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc6.png)
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc3k.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc4k.png)
+
+## Clear Dawn Denim
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc1d.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc2d.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc3d.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc4d.png)
+
+## Clear Dawn Phosphor
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc1p.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc2p.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc3p.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc4p.png)
+
+## Clear Dawn RetrOrange
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc1o.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc2o.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc3o.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc4o.png)
