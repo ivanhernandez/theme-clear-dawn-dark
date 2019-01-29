@@ -1,5 +1,5 @@
-# Clear Dawn
-A desaturated greenish, high contrast, dark theme
+# Clear Dawn Dark
+Desaturated greenish and blueish, high contrast, dark themes (and two retro monochromatic extras)
 
 [GitHub repository](https://github.com/ivanhernandez/theme-clear-dawn-dark)
 

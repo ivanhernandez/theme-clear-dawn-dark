@@ -1,9 +1,9 @@
 {
     "name": "theme-clear-dawn-dark",
     "displayName": "Clear Dawn Dark",
-    "description": "A desaturated greenish, high contrast, dark theme",
+    "description": "Desaturated greenish and blueish, high contrast, dark themes (and two retro monochromatic extras)",
     "categories": ["Themes"],
-    "version": "0.8.1",
+    "version": "1.0.0",
     "publisher": "ivanhernandez",
     "engines": { "vscode": "*" },
     "contributes": {
@@ -13,10 +13,21 @@
             "uiTheme": "vs-dark",
             "path": "./themes/clear_dawn_dark.json"
         }, {
+        "themes": [{
+            "id": "Clear Dawn Denim",
+            "label": "Clear Dawn Denim",
+            "uiTheme": "vs-dark",
+            "path": "./themes/clear_dawn_denim.json"
+        }, {
             "id": "Clear Dawn Phosphor",
             "label": "Clear Dawn Phosphor",
             "uiTheme": "vs-dark",
             "path": "./themes/clear_dawn_phosphor.json"
+        }, {
+            "id": "Clear Dawn RetrOrange",
+            "label": "Clear Dawn RetrOrange",
+            "uiTheme": "vs-dark",
+            "path": "./themes/clear_dawn_retrorange.json"
         }]
     }
 }
