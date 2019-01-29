@@ -13,7 +13,6 @@
             "uiTheme": "vs-dark",
             "path": "./themes/clear_dawn_dark.json"
         }, {
-        "themes": [{
             "id": "Clear Dawn Denim",
             "label": "Clear Dawn Denim",
             "uiTheme": "vs-dark",
