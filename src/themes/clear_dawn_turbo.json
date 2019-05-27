@@ -183,7 +183,7 @@
     {
         "scope": "meta.diff.header",
         "settings": {
-            "foreground": "#DAD"
+            "foreground": "#AFF"
         }
     },
     {
@@ -222,13 +222,13 @@
     {
         "scope": "entity.name.selector",
         "settings": {
-            "foreground": "#DAD" //rgb(16, 8, 0)
+            "foreground": "#5FF" //rgb(16, 8, 0)
         }
     },
     {
         "scope": "entity.other.attribute-name",
         "settings": {
-            "foreground": "#DAD" //rgb(16, 8, 0)
+            "foreground": "#5FF" //rgb(16, 8, 0)
         }
     },
     {
@@ -242,7 +242,7 @@
             "entity.other.attribute-name.scss"
         ],
         "settings": {
-            "foreground": "#DAD" //rgb(97, 113, 161)
+            "foreground": "#5FF" //rgb(97, 113, 161)
         }
     },
     {
@@ -251,7 +251,7 @@
             "source.css.less entity.other.attribute-name.id"
         ],
         "settings": {
-            "foreground": "#DAD" //rgb(161, 97, 145)
+            "foreground": "#5FF" //rgb(161, 97, 145)
         }
     },
     {
@@ -339,13 +339,13 @@
             "beginning.punctuation.definition.list.markdown"
         ],
         "settings": {
-            "foreground": "#DAD"
+            "foreground": "#F55"
         }
     },
     {
         "scope": "meta.selector",
         "settings": {
-            "foreground": "#DAD"
+            "foreground": "#5F5"
         }
     },
     {
@@ -388,7 +388,7 @@
     {
         "scope": "storage.type",
         "settings": {
-            "foreground": "#AAA"
+            "foreground": "#5FF"
         }
     },
     {
@@ -422,7 +422,7 @@
             "string.quoted.double.handlebars"
         ],
         "settings": {
-            "foreground": "#AAA" //rgb(161, 49, 49)
+            "foreground": "#F5F" //rgb(161, 49, 49)
         }
     },
     {
@@ -498,7 +498,7 @@
             "storage.modifier.package.java"
         ],
         "settings": {
-            "foreground": "A0A"
+            "foreground": "#A0A"
         }
     },
     {
@@ -515,7 +515,7 @@
             "keyword.control"
         ],
         "settings": {
-            "foreground": "FF5"
+            "foreground": "#FF5"
         }
     },
     {
@@ -542,7 +542,7 @@
     {
         "scope": "keyword.other.unit",
         "settings": {
-            "foreground": "#AAA" //rgb(81, 145, 113)
+            "foreground": "#5FF" //rgb(81, 145, 113)
         }
     },
     {
@@ -606,7 +606,7 @@
             "entity.other.inherited-class"
         ],
         "settings": {
-            "foreground": "5FF"
+            "foreground": "#5FF"
         }
     },
     {
