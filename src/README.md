@@ -67,3 +67,13 @@ Took screenshots  with [Fira Code](https://github.com/tonsky/FiraCode) and enabl
 ![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc3o.png)
 
 ![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc4o.png)
+
+## Clear Dawn Turbo
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc1t.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc2t.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc3t.png)
+
+![ScreenShot](https://raw.githubusercontent.com/ivanhernandez/theme-clear-dawn-dark/master/screenshots/sc4t.png)
