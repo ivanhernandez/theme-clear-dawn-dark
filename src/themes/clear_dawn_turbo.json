@@ -120,6 +120,9 @@
         "gitDecoration.modifiedResourceForeground": "#5F5",
         "gitDecoration.submoduleResourceForeground": "#0AA",
         "gitDecoration.untrackedResourceForeground": "#000",
+        "gitlens.trailingLineForegroundColor": "#55F",
+        "gitlens.gutterUncommittedForegroundColor": "#F5F",
+        "gitlens.lineHighlightBackgroundColor": "#555",
 
         "peekView.border": "#555",
         "peekViewEditor.background": "#555",

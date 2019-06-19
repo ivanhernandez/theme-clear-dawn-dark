@@ -1,5 +1,6 @@
 # Changelog
 
+* **2019-06-19** Fix gitlens color for turbo variant.
 * **2019-05-24** Added turbo variant. Reduce package size.
 * **2019-01-29** Added denim varian.
 * **2018-08-08** Added retrorange dark theme.

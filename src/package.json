@@ -3,7 +3,7 @@
     "displayName": "Clear Dawn Dark",
     "description": "Desaturated greenish and blueish, high contrast, dark themes (and two retro monochromatic extras)",
     "categories": ["Themes"],
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "ivanhernandez",
     "repository": " https://github.com/ivanhernandez/theme-clear-dawn-dark",
     "engines": { "vscode": "*" },
